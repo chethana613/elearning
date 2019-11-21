@@ -1,0 +1,4 @@
+com\hcl\elearning\ELearningApplicationTests.class
+com\hcl\elearning\service\LoginSvcImplTest.class
+com\hcl\elearning\service\CourseSvcImplTest.class
+com\hcl\elearning\service\UserCourseSvcImplTest.class

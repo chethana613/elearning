@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.hcl.elearning.service.CourseSvcImplTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.664 s - in com.hcl.elearning.service.CourseSvcImplTest
